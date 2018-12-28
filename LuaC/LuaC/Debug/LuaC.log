@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\pfeilbr\source\repos\luac\luac\lua.h(38): warning C4005: 'LUA_GLOBALSINDEX': macro redefinition
+  c:\users\pfeilbr\source\repos\luac\luac\r_lua.h(95): note: see previous definition of 'LUA_GLOBALSINDEX'
+c:\users\pfeilbr\source\repos\luac\luac\main.cpp(12): warning C4005: 'LUA_GLOBALSINDEX': macro redefinition
+  c:\users\pfeilbr\source\repos\luac\luac\lua.h(38): note: see previous definition of 'LUA_GLOBALSINDEX'
+  LuaC.vcxproj -> C:\Users\pfeilbr\source\repos\LuaC\Debug\LuaC.dll
